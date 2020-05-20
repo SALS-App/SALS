@@ -8,6 +8,7 @@ You can post your bugs, wanted features and or questions into "[Issues](https://
  - Weight: This determents how important the issue (whether a bug or feature request) is. Ranging from 1 to 25 (lowest is less important, highest most important)
  - Labels: We use a range of Labels. (e.g. "Bug", "Enhancement" or "crucial") These should make it easier to determent in more detail whether an issue is a bug report or a feature request.
  - Milestones: Milestones help the issuer to see in what version his feature request or bug report is being implemented.
+
 ## Issue FAQ
  - Q: How can I tell whether someone is working on my issue or not?
 <br/>A: Simple. When someone is assigned to your Issue, it's being worked on it.
