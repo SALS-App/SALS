@@ -2,7 +2,7 @@
 
 ## Issue and feedback tracker.
 
-You can post your bugs, wanted features and or questions into "[Issues](https://github.com/SALS-App/SALS-Public/issues)" (Only English or German)
+You can post your bugs, wanted features and or questions into "[Issues](https://github.com/SALS-App/SALS/issues)" (Only English or German)
 
 ## Issue Structure
  - Weight: This determents how important the issue (whether a bug or feature request) is. Ranging from 1 to 25 (lowest is less important, highest most important)
