@@ -11,5 +11,3 @@ You can post bugs, feature requests and questions in "[Issues](https://github.co
 ## Issue FAQ
  - Q: How can I tell whether someone is working on my issue or not?
 <br/>A: When someone is assigned to your Issue, it's being worked on.
- - Q: I got a low issue weight, what can I do?
-<br/>A: Little. You could try adding more detail to your issue or feature request to avoid misunderstanding.
